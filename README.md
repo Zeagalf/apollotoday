@@ -1,6 +1,6 @@
 <h1 align="center">✩ 𝑹𝒖𝒔𝒕 & 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ✩</h1>
 
-<p align="center">
+<p align="left">
   ✨ Rust & DeFi Protocol Engineer | AI Agent Builder <br>
   ✨ Protocol Engineer • AI Agent Dev • Onchain Innovator <br>
   ✨ Hardcore Rust Engineer | DeFi Protocols & AI Agents <br>
